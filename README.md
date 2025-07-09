@@ -1,7 +1,7 @@
 ## Olá, sou o Vinícius👋
 
-- Estou me formando em Engenharia de Software
-- Universidade de Mogi das Cruzes
+- Formando em Engenharia de Software.
+- Back-End Developer.
 
 <picture>
   <source
@@ -17,5 +17,4 @@
 
 ## Linguagens usadas
 
-<img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Vinicius-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+[![My Skills](https://skillicons.dev/icons?i=java,python,vscode)](https://skillicons.dev)
