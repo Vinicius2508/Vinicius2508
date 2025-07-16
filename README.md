@@ -17,4 +17,4 @@
 
 ## Linguagens usadas
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,vscode,git)](https://skillicons.dev)
